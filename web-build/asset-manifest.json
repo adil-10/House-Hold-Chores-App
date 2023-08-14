@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/static/js/main.3ac5f520.js",
+    "static/js/346.7f72bdcb.js": "/static/js/346.7f72bdcb.js",
+    "static/media/Ionicons.ttf": "/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
+    "static/media/MaterialIcons.ttf": "/static/media/MaterialIcons.120b4c7bbd155bd0a04d.ttf",
+    "static/media/BackgroundNew.jpg": "/static/media/BackgroundNew.056909a79d664d36352c.jpg",
+    "static/media/leaveRoom.png": "/static/media/leaveRoom.3ba2d7dee83d2516d231.png",
+    "static/media/JoinHouse.png": "/static/media/JoinHouse.37dabb55dc7b735036c0.png",
+    "favicon.ico": "/favicon.ico",
+    "static/media/ViewAll.png": "/static/media/ViewAll.13e879c209cf6a5ea4da.png",
+    "static/media/pluscircle.png": "/static/media/pluscircle.0366d599d2c8acffdc57.png",
+    "static/media/create.png": "/static/media/create.cde8cd71efec437872f5.png",
+    "index.html": "/index.html",
+    "favicon-32.png": "/favicon-32.png",
+    "static/media/inAppColour.avif": "/static/media/inAppColour.2cea223441c7345a0b43.avif",
+    "favicon-16.png": "/favicon-16.png",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "main.3ac5f520.js.map": "/static/js/main.3ac5f520.js.map",
+    "346.7f72bdcb.js.map": "/static/js/346.7f72bdcb.js.map"
+  },
+  "entrypoints": [
+    "static/js/346.7f72bdcb.js",
+    "static/js/main.3ac5f520.js"
+  ]
+}

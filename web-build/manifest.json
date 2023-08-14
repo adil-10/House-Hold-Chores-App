@@ -1,0 +1,17 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "lang": "en",
+  "name": "House-Hold-App",
+  "short_name": "House-Hold-App",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait",
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "http://play.google.com/store/apps/details?id=com.HouseHoldApp",
+      "id": "com.HouseHoldApp"
+    }
+  ],
+  "prefer_related_applications": true
+}
